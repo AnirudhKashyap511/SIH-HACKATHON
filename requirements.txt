@@ -1,0 +1,5 @@
+- Arduino kit for Potentiometer
+- Arduino 1.8.10 
+- ros_lib package  rosserial
+- python 3.x
+- pydub
